@@ -1,6 +1,6 @@
 <h1 align="center">mini-vue3</h1>
 
-<p align="center">从零实现 Redux 过程 ( 深入深入学习 vue3 )</p>
+<p align="center">从零实现 vue3 过程 ( 用于深入学习 vue3)</p>
 
 ## 为什么做这件事
 
